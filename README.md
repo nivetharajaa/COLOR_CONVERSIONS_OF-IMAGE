@@ -57,7 +57,7 @@ o	Save the final modified image to your local directory.
 ### Register Number:212222230101
 
 
-#### Program & Output::
+### Program & Output::
 
 ### i)Read and Display an Image
 Load an image from your local directory and display it
